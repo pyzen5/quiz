@@ -1,4 +1,4 @@
-package com.example.quiz
+package com.pyzen.quiz
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
